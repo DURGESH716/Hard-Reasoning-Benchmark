@@ -1,0 +1,12 @@
+data_root: data
+results_root: results
+
+datasets:
+  gsm8k: data/gsm8k
+  arc_easy: data/arc-easy
+  arc_challenge: data/arc-challenge
+  math: data/math
+
+models:
+  qwen3: Qwen/Qwen3-8B-Base
+  deepseek: deepseek-ai/deepseek-math-7b-base
