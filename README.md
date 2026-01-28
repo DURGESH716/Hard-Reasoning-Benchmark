@@ -61,7 +61,7 @@ All models are loaded via Hugging Face and cached automatically.
 │     └── with_steps_flist_relative_algebra.txt
 │     └── no_steps_flist_relative_algebra.txt
 ├── scripts
-│   ├── run_disagreements.sh
+│   ├── run_disagreement.sh
 │   ├── build_benchmark.sh
 │   ├── eval_all_models.sh
 │   └── run_all.sh
