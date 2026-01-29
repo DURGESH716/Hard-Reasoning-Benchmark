@@ -83,7 +83,7 @@ All models are loaded via Hugging Face and cached automatically.
 Create a Python environment with the following dependencies:
 
 ```bash
-pip install torch transformers datasets pandas tqdm pyyaml
+pip install torch transformers datasets pandas tqdm pyyaml accelerate
 ````
 
 A CUDA-enabled GPU is required for full-scale runs.
