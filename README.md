@@ -116,6 +116,7 @@ To run the complete pipeline from scratch:
 ```bash
 bash scripts/run_all.sh
 ```
+The commands to be executed inside the Hard-Reasoning-Benchmark folder
 
 This performs the following steps:
 
